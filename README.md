@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashif.
-- 👀 I’m interested in Software Development particularly Modern Web App development, Backend Engineering, Machine Learning etc.
+- 👀 I’m interested in Software Development particularly Modern Web App development, Backend Engineering, Machine Learning...
 - 🌱 I’m currently working as a Senior Software Engineer at Enosis Solutions but also open to any new exciting opportunities.
 - 📫 To reach me ...[LinkedIn](https://www.linkedin.com/in/md-ashif/)
 
